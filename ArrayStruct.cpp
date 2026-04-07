@@ -11,7 +11,7 @@ struct DetailAlamat {
 
 struct Orang {
     string nama;
-    DetailAlamat alamat; // Nested Struct
+    DetailAlamat alam; // Nested Struct
     int umur;
 };
 
