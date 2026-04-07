@@ -35,7 +35,7 @@ int main() {
     cout << "Input Desa: ";
     getline(cin, mhsTunggal.alamat.desa);
     
-    cout << "Input Ko: ";
+    cout << "Input Kota: ";
     getline(cin, mhsTunggal.alamat.kota);
     
     cout << "Input Umur: ";
