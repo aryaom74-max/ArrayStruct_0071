@@ -32,7 +32,7 @@ int main() {
     // Pakai getline agar bisa baca nama lengkap dengan spasi
     getline(cin, mhsTunggal.nama); 
     
-    cout << "Input Desa: ";
+    cout << "Input De: ";
     getline(cin, mhsTunggal.alamat.desa);
     
     cout << "Input Kota: ";
