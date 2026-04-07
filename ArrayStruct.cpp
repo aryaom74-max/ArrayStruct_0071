@@ -38,7 +38,7 @@ int main() {
     cout << "Input Kota: ";
     getline(cin, mhsTunggal.alamat.kota);
     
-    cout << "Input Umur: ";
+    cout << "Input Um: ";
     cin >> mhsTunggal.umur;
     cin.ignore(); // Membersihkan sisa 'Enter' agar tidak mengganggu input berikutnya
 
