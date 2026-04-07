@@ -28,7 +28,7 @@ int main() {
     cout << "=== SESI 2: STRUCT MAHASISWA TUNGGAL ===" << endl;
     Orang mhsTunggal;
     
-    cout << "Input Nama Mahasiswa: ";
+    cout << "Input Nama Mahasis: ";
     // Pakai getline agar bisa baca nama lengkap dengan spasi
     getline(cin, mhsTunggal.nama); 
     
