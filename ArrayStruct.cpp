@@ -5,7 +5,7 @@ using namespace std;
 
 // 1. Definisi Struct (Letakkan di luar main)
 struct DetailAlamat {
-    string de;
+    string desa;
     string kota;
 };
 
